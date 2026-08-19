@@ -55,8 +55,3 @@ View Results: Download your processed snapshot dataset from the Bright Data dash
 
 
 ---
-
-### What to do right now:
-1. Go to your newly created GitHub repository.
-2. Click on the `README.md` file, click the edit (pencil) icon, paste this template in, and commit the changes.
-3. Record your short demo video showing the app in action, upload it or link it in your sub
