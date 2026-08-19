@@ -53,5 +53,4 @@ Trigger Search: Enter your target job keyword (e.g., 3D Artist) and location, th
 
 View Results: Download your processed snapshot dataset from the Bright Data dashboard, click "Upload Results", and instantly view your structured job intelligence cards!
 
-
 ---
