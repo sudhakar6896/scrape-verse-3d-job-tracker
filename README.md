@@ -34,3 +34,29 @@ Finding specialized roles in the 3D graphics and gaming industry often requires 
    ```bash
    git clone [https://github.com/sudhakar6896/scrape-verse-3d-job-tracker.git](https://github.com/sudhakar6896/scrape-verse-3d-job-tracker.git)
    cd scrape-verse-3d-job-tracker
+
+Install required dependencies:
+
+Bash
+pip install customtkinter requests pandas openpyxl
+Configure your API Token:
+Open scrapper.py and replace the placeholder string with your Bright Data API token:
+
+Python
+self.api_token = "YOUR_API_TOKEN"
+Run the Application:
+
+Python
+python scrapper.py
+📱 How to Use
+Trigger Search: Enter your target job keyword (e.g., 3D Artist) and location, then click "Trigger Scraper" to dispatch the task to your Bright Data collector.
+
+View Results: Download your processed snapshot dataset from the Bright Data dashboard, click "Upload Results", and instantly view your structured job intelligence cards!
+
+
+---
+
+### What to do right now:
+1. Go to your newly created GitHub repository.
+2. Click on the `README.md` file, click the edit (pencil) icon, paste this template in, and commit the changes.
+3. Record your short demo video showing the app in action, upload it or link it in your sub
