@@ -34,6 +34,7 @@ Finding specialized roles in the 3D graphics and gaming industry often requires 
    ```bash
    git clone https://github.com/sudhakar6896/scrape-verse-3d-job-tracker.git
    cd scrape-verse-3d-job-tracker
+   dir
 
 Install required dependencies:
 
