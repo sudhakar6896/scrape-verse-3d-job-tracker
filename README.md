@@ -1,3 +1,8 @@
+<img width="1475" height="750" alt="1" src="https://github.com/user-attachments/assets/2c3df9fb-d6c4-4935-b24e-06d19c5d818f" />
+<img width="1625" height="936" alt="3" src="https://github.com/user-attachments/assets/9d704188-a124-46e6-bd91-16b4f2ce730a" />
+<img width="1302" height="972" alt="2" src="https://github.com/user-attachments/assets/257a1eb2-ffd6-4bf2-927f-db800fa22786" />
+
+
 # 🌐 Global 3D Job Tracker & Intelligence Dashboard
 > Built for the **Into the Scrape-Verse** Hackathon (WeMakeDevs & Bright Data Collaboration).
 A native desktop intelligence dashboard built with Python and CustomTkinter that aggregates, structures, and visualizes global job openings for 3D Artists, Technical Artists, and 3D Generalists using custom web data powered by **Bright Data Scraper Studio**.
