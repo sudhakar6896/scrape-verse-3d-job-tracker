@@ -53,5 +53,4 @@ python scrapper.py
 Trigger Search: Enter your target job keyword (e.g., 3D Artist) and location, then click "Trigger Scraper" to dispatch the task to your Bright Data collector.
 
 View Results: Download your processed snapshot dataset from the Bright Data dashboard, click "Upload Results", and instantly view your structured job intelligence cards!
-
 ---
